@@ -3,7 +3,7 @@
 ## **Project Information**
 
 ### **Overview**
-This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University. Its main purpose is to.
+This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University.
 
 
 ### **Description**
