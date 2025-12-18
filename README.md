@@ -1,0 +1,30 @@
+# **IMCS3020U Project: TBA**
+
+## **Project Information**
+
+### **Overview**
+This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University. Its main purpose is to.
+
+
+### **Description**
+
+
+### **Project Contributor(s)**
+- **Tobenna Nnaobi**
+
+## **Getting Started**
+
+### **Requirements**
+- Any Version $\leq$ **Python 3.12.10** Is Required
+- Any IDE With Jupyter Notebook Is Recommended (e.g. **Visual Studio Code**) 
+
+### **Dependencies & Modules**
+
+
+## **Project Testing Results**
+
+
+## **Author(s)**
+- **Tobenna Nnaobi**
+
+
