@@ -11,6 +11,8 @@ This project was developed as a chosen topical project for the **IMCS3020U: Inte
 
 ### **Project Contributor(s)**
 - **Tobenna Nnaobi**
+- **Marian Waffle**
+- **Jin Sutharman**
 
 ## **Getting Started**
 
@@ -26,5 +28,7 @@ This project was developed as a chosen topical project for the **IMCS3020U: Inte
 
 ## **Author(s)**
 - **Tobenna Nnaobi**
+- **Marian Waffle**
+- **Jin Sutharman**
 
 
