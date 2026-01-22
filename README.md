@@ -18,7 +18,7 @@ This project was developed as a chosen topical project for the **IMCS3020U: Inte
 
 ### **Requirements**
 - Any Version $\leq$ **Python 3.12.10** Is Required
-- Any IDE With Jupyter Notebook Or Google Colab Is Recommended (e.g. **Visual Studio Code**) 
+- Any IDE With Jupyter Notebook Or Any Notebook-Adajecent Functionalities Is Recommended (e.g. **Visual Studio Code**, **Google Colab**) 
 
 ### **Dependencies & Modules**
 
