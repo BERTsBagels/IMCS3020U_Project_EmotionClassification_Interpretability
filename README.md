@@ -3,10 +3,12 @@
 ## **Project Information**
 
 ### **Overview**
-This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University.
+This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University. Its main purpose is aiming to compare methods of explaining the predictions made by BERT for applications such as mental health support and diagnostics or hate speech detection so that the
+process by which they are made is transparent, quantifiable, and trustworthy.
 
 
 ### **Description**
+In a previous project, BERT was compared with MLkNN at the task of emotion classification on the GoEmotions dataset. While BERT performed considerably better than MLkNN based on the F1-score, the process that allows it to categorize text by emotion content is not as easy to understand as with the MLkNN algorithm. In this project we seek to explain and interpret the results of using BERT to categorize emotion in text samples, by applying three frameworks to the existing BERT pipeline from the previous project: LIME, SHAP, and Integrated Gradients.
 
 
 ### **Project Contributor(s)**
