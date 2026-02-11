@@ -20,7 +20,7 @@ In a previous project, BERT was compared with MLkNN at the task of emotion class
 
 ### **Requirements**
 - Any Version $\leq$ **Python 3.12.10** Is Required
-- Any IDE With Jupyter Notebook Or Any Notebook-like Adajecent Functionalities Are Recommended (e.g. **Visual Studio Code**, **Google Colab**) 
+- Any IDE With Jupyter Notebook Or Any Notebook-like Adajecent Functionalities Are Recommended (e.g. **Visual Studio Code**, **Google Colab**, etc.) 
 
 ### **Dependencies & Modules**
 - **NLTK**: Also known as Natural Language Toolkit, it is considered a leading platform for building Python programs to work with human language data. It provides easy-to-use corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
