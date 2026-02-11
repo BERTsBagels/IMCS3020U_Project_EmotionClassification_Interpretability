@@ -27,6 +27,9 @@ In a previous project, BERT was compared with MLkNN at the task of emotion class
 
 - **Pandas**: A fast, powerful, and flexible Python dependency that used for primarily for data analysis and manipulation purposes.
 
+- **Matplotlib**: A powerful Python dependency that used to display graphical representations of pieces of critical data.
+    - **matplotlib.pyplot**: A state-based interface to matplotlib. It provides an implicit, MATLAB-like, way of plotting graphical representations. pyplot is mainly intended for interactive plots and simple cases of programmatic plot generation.
+
 ## **Project Testing Results**
 
 
