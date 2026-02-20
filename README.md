@@ -1,4 +1,4 @@
-# **IMCS3020U Project: Investigating Interpretability of BERT for Emotion Classification by Comparing Shapley Additive Explanations (SHAP) and Integrated Gradients**
+# **IMCS3020U Project: Investigating Interpretability of BERT for Emotion Classification by Comparing Shapley Additive Explanations (SHAP), Local Interpretable Model-Agnostic Explanations (LIME), and Integrated Gradients**
 
 ## **Project Information**
 
