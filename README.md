@@ -3,8 +3,7 @@
 ## **Project Information**
 
 ### **Overview**
-This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University. Its main purpose is aiming to compare methods of explaining the predictions made by BERT for applications such as mental health support and diagnostics or hate speech detection so that the
-process by which they are made is transparent, quantifiable, and trustworthy.
+This project was developed as a chosen topical project for the **IMCS3020U: Integrated Project Course II** during the 2026 Winter Semester at Ontario Tech University. Its main purpose is aiming to compare methods of explaining the predictions made by BERT for applications such as mental health support and diagnostics or hate speech detection so that the process by which they are made is transparent, quantifiable, and trustworthy.
 
 
 ### **Description**
