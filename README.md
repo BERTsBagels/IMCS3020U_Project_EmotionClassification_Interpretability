@@ -16,7 +16,7 @@ In a previous project, BERT was compared with MLkNN at the task of emotion class
     - $`\text{insert LIME equation here}`$
 
 - **Integrated Gradients**: An attribution technique that explains a model’s prediction by quantifying the contribution of each input feature. It works by accumulating gradients along a straight path from a user-defined baseline input to the actual input. This path integral ensures that the attributions satisfy the fundamental axioms like completeness and sensitivity (non-zero attributions for features that change the prediction).
-    - $`\begin{align}\text{IntegratedGrads}_{i}(x) ::= (x_{i} - x^{\prime}_{i}) \times \int_{\alpha = 0}^{1} \frac{\partial F(x^{\prime} + \alpha \times (x - x^{\prime}))}{\partial x_{i}} d\alpha\end{align}`$
+    - $`\begin{align}\text{IntegratedGrads}_{i}(x) := (x_{i} - x^{\prime}_{i}) \times \int_{\alpha = 0}^{1} \frac{\partial F(x^{\prime} + \alpha \times (x - x^{\prime}))}{\partial x_{i}} d\alpha\end{align}`$
 
 
 
