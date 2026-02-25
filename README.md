@@ -33,9 +33,19 @@ In a previous project, BERT was compared with MLkNN at the task of emotion class
 
 ### **Dependencies & Modules**
 - **Pandas**: A fast, powerful, and flexible Python dependency that used for primarily for data analysis and manipulation purposes.
--
--
--
+
+- **PyTorch**:
+
+- **Sci-kit Learn**: A Python module that is utilized for machine learning purposes and contains
+tools for predictive data analysis. It is built on NumPy, SciPy, and matplotlib.
+
+- **Captum**: 
+
+- **BertTransformer**: 
+
+- **SHAP**: 
+
+- **LIME**: 
 
 ## **Project Testing Results**
 
