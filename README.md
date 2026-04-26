@@ -1,5 +1,11 @@
 # **IMCS3020U Project: Investigating Interpretability of BERT for Emotion Classification by Comparing Shapley Additive Explanations (SHAP), Local Interpretable Model-Agnostic Explanations (LIME), and Integrated Gradients**
 
+## **Table of Contents**
+- [***Project Information***](#project-information)
+- [***Mathematical & Computational Backgrounds***](#mathematical--computational-backgrounds)
+- [***Getting Started***](#getting-started)
+- [***Project Testing Results***](#project-testing-results)
+
 ## **Project Information**
 
 ### **Overview**
@@ -8,7 +14,7 @@ This project was developed as a chosen topical project for the **IMCS3020U: Inte
 ### **Description**
 In a previous project, BERT was compared with MLkNN at the task of emotion classification on the GoEmotions dataset. While BERT performed considerably better than MLkNN based on the F1-score, the process that allows it to categorize text by emotion content is not as easy to understand as with the MLkNN algorithm. In this project we seek to explain and interpret the results of using BERT to categorize emotion in text samples, by applying three frameworks to the existing BERT pipeline from the previous project: LIME, SHAP, and Integrated Gradients.
 
-### **Mathematical & Computational Backgrounds**
+## **Mathematical & Computational Backgrounds**
 - **BERT (Bidirectional Encoder Representations from Transformers)**: A model capable of powerful text classification by capturing contextual meaning in its predictions. This model has revolutionized natural language processing, yet its complexity makes explaining its decisions challenging. Understanding BERT’s predictions and their basis is crucial to the safety and trustworthiness of the many applications of this technology.
 
 - **SHapley Additive exPlanations (SHAP)**: This concept explains the contributions of various tokens to the end prediction by BERT. It is found in game theory and seeks to fairly divide proceeds of a winning game to players on the same team that have not contributed equally to the outcome. SHAP is represented by the following equation:
@@ -74,15 +80,11 @@ tools for predictive data analysis. It is built on NumPy, SciPy, and matplotlib.
 - **Iterative Stratification**: A project that provides **Sci-kit Learn** compatible cross validators with stratification for multilabel data.
 
 
-
 ## **Project Testing Results**
 <img width="1984" height="784" alt="topwords_SURPRISE" src="https://github.com/user-attachments/assets/5e70963a-5812-4928-88dd-71ee9680eea4"/>
 <img width="1000" height="800" alt="3d_plot_SURPRISE" src="https://github.com/user-attachments/assets/3cafd3b0-5e31-4574-a660-0c249ddc8115"/>
 <img width="906" height="853" alt="SHAPglobalSURPRISE" src="https://github.com/user-attachments/assets/868942ad-1079-44b1-882b-be2440e56e88" />
 <img width="850" height="554" alt="jaccard_surprise" src="https://github.com/user-attachments/assets/2fb743ab-1906-42ce-94b3-0295b2194d20" />
-
-
-
 
 
 ## **Author(s)**
