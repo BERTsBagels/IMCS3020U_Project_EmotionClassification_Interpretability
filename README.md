@@ -5,6 +5,7 @@
 - [***Mathematical & Computational Backgrounds***](#mathematical--computational-backgrounds)
 - [***Getting Started***](#getting-started)
 - [***Project Testing Results***](#project-testing-results)
+- [***Author(s)***](#authors)
 
 ## **Project Information**
 
