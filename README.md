@@ -14,6 +14,11 @@ This project was developed as a chosen topical project for the **IMCS3020U: Inte
 ### **Description**
 In a previous project, BERT was compared with MLkNN at the task of emotion classification on the GoEmotions dataset. While BERT performed considerably better than MLkNN based on the F1-score, the process that allows it to categorize text by emotion content is not as easy to understand as with the MLkNN algorithm. In this project we seek to explain and interpret the results of using BERT to categorize emotion in text samples, by applying three frameworks to the existing BERT pipeline from the previous project: LIME, SHAP, and Integrated Gradients.
 
+### **Project Contributor(s)**
+- **Tobenna Nnaobi**
+- **Marian Waffle**
+- **Jin Sutharman**
+
 ## **Mathematical & Computational Backgrounds**
 - **BERT (Bidirectional Encoder Representations from Transformers)**: A model capable of powerful text classification by capturing contextual meaning in its predictions. This model has revolutionized natural language processing, yet its complexity makes explaining its decisions challenging. Understanding BERT’s predictions and their basis is crucial to the safety and trustworthiness of the many applications of this technology.
 
@@ -47,11 +52,6 @@ In a previous project, BERT was compared with MLkNN at the task of emotion class
         - $`x^{\prime}`$ is the baseline input
         - $`F`$ is the function of the neural network
         - $`\alpha`$ is a parameter that varies from 0 to 1 on a straight path.
-
-### **Project Contributor(s)**
-- **Tobenna Nnaobi**
-- **Marian Waffle**
-- **Jin Sutharman**
 
 ## **Getting Started**
 
