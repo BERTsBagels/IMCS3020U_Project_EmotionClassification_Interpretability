@@ -76,6 +76,13 @@ tools for predictive data analysis. It is built on NumPy, SciPy, and matplotlib.
 
 
 ## **Project Testing Results**
+<img width="1984" height="784" alt="topwords_SURPRISE" src="https://github.com/user-attachments/assets/5e70963a-5812-4928-88dd-71ee9680eea4"/>
+<img width="1000" height="800" alt="3d_plot_SURPRISE" src="https://github.com/user-attachments/assets/3cafd3b0-5e31-4574-a660-0c249ddc8115"/>
+<img width="906" height="853" alt="SHAPglobalSURPRISE" src="https://github.com/user-attachments/assets/868942ad-1079-44b1-882b-be2440e56e88" />
+<img width="850" height="554" alt="jaccard_surprise" src="https://github.com/user-attachments/assets/2fb743ab-1906-42ce-94b3-0295b2194d20" />
+
+
+
 
 
 ## **Author(s)**
