@@ -92,3 +92,5 @@ tools for predictive data analysis. It is built on NumPy, SciPy, and matplotlib.
 - **Tobenna Nnaobi**
 - **Marian Waffle**
 - **Jin Sutharman**
+
+**Copyright &copy; 2026. All Rights Reserved.**
